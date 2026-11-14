@@ -17,7 +17,6 @@ void sang(long long n) {
 
 }
 
-
 int main()
 {
 	ios::sync_with_stdio(false);
